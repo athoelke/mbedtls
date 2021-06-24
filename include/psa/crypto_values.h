@@ -835,7 +835,7 @@
  *
  * \param alg An algorithm identifier (value of type #psa_algorithm_t).
  *
- * \return 1 if \p alg is a key stretching / passowrd hashing algorithm, 0
+ * \return 1 if \p alg is a key stretching / password hashing algorithm, 0
  *         otherwise. This macro may return either 0 or 1 if \p alg is not a
  *         supported algorithm identifier.
  */
